@@ -1,6 +1,7 @@
 ---
-layout:default
+layout: default
 ---
+
 ## About Me
 
 Hi! I'm Yunxi Zhou, a first-year student majoring in **Mathematics and Statistics**.
