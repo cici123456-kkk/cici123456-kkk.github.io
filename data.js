@@ -62,3 +62,24 @@ const talks = [];
 
 // Honors Data - Replace with your own honors and awards
 const honors = [];
+
+// Profile Data - Replace with your own profile
+const profile = {
+    name: "Zhu Yunxi",  // <--- 这里就是名字
+    avatar: "assets/images/avatar.jpg",
+    bio: "Mathematics and Statistical Science Student", // <--- 个人简介
+    location: "University College London", // <--- 位置/学校
+    email: "zhuyunxi0322@outlook.com", // <--- 邮箱
+    social: { // <--- 社交链接
+        github: "https://github.com/cici123456-kkk",
+        linkedin: "www.linkedin.com/in/zhuyunxi"
+    }
+};
+
+const education = [
+    {
+        degree: "B.S. in Mathematics and Statistics",
+        school: "Your University",
+        year: "2025 – 2029"
+    }
+];
