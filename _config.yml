@@ -1,0 +1,21 @@
+title: Zhu Yunxi
+name: Zhu Yunxi
+description: Mathematics and Statistics Student | Passionate about Data
+footer: Zhu Yunxi 2026
+canonical: https://cici123456-kkk.github.io
+github_link: https://github.com/cici123456-kkk
+avatar: ./assets/img/avatar.png
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+markdown: kramdown
+highlighter: rouge
+exclude:
+  - LICENSE
+  - README.md
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
