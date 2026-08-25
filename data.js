@@ -65,17 +65,18 @@ const honors = [];
 
 // Profile Data - Replace with your own profile
 const profile = {
-    name: "Zhu Yunxi",  // <--- 这里就是名字
+    name: "Yunxi Zhou",
     avatar: "assets/images/avatar.jpg",
-    bio: "Mathematics and Statistical Science Student", // <--- 个人简介
-    location: "University College London", // <--- 位置/学校
-    email: "zhuyunxi0322@outlook.com", // <--- 邮箱
-    social: { // <--- 社交链接
-        github: "https://github.com/cici123456-kkk",
-        linkedin: "www.linkedin.com/in/zhuyunxi"
+    bio: "Hi! I'm Yunxi Zhou, a first-year student majoring in Mathematics and Statistics at Your University. I enjoy coding, data analysis, and working on team projects. Feel free to reach out if you'd like to connect or collaborate!",
+    location: "University College London",
+    email: "zhuyunxi0322@outlook.com",
+    social: {
+        github: "https://github.com/cici123456-kkk"
+        linkdein:www.linkedin.com/in/zhuyunxi
     }
 };
 
+// education
 const education = [
     {
         degree: "B.S. in Mathematics and Statistics",
