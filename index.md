@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-Hi! I'm Yunxi Zhou, a first-year student majoring in **Mathematics and Statistics**.
+Hi! I'm Yunxi Zhu, a first-year student majoring in **Mathematics and Statistics**.
 
 I'm passionate about using data to uncover patterns and solve real-world problems. 
 I enjoy working on team projects, learning new tools, and turning raw data into meaningful insights.
